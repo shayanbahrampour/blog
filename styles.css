@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+}
+
+.web-back{
+    padding: 20px;
+    padding-right: 50px;
+}
+.container{
+    padding: 20px;
+    width: 250px;
+}
+
+p{
+    color: aliceblue;
+       font-family: 'JetBrains Mono', monospace;
+}
+
+img{
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+    padding-top: 10px;
+}
+iframe{
+    padding-top: 20px;
+    width: 100%;
+    max-width: 250px;
+}
