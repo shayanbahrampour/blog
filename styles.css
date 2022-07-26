@@ -8,7 +8,8 @@
 }
 .container{
     padding-top: 10px;
-    marin: 20px;
+    margin: 20px;
+    width: 250px;
 }
 
 p{
