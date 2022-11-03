@@ -2,6 +2,16 @@
     background-color: black;
 }
 
+@font-face {
+    font-family: 'tahrir';
+    src: url('../fonts/tahrir.ttf');
+    font-weight: normal;
+    font-style: normal;
+    }
+    body{
+    font-family: "tahrir";
+    }
+
 .web-back{
     padding: 20px;
     padding-right: 50px;
@@ -14,14 +24,15 @@
 
 p{
     color: aliceblue;
-       font-family: 'JetBrains Mono', monospace;
+    font-size: 20px;
+    text-align: end;
+    font-family: "tahrir";
 }
 
 img{
-    width: 100%;
-    max-width: 200px;
-    height: 200px;
-    padding-top: 10px;
+    display: block;
+    height: 180px;
+    margin-left: auto;
 }
 iframe{
     padding-top: 20px;
